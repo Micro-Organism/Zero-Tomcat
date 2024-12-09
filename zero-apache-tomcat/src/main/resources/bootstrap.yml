@@ -1,0 +1,7 @@
+spring:
+    application:
+        name: zero-apache-tomcat
+    profiles:
+        active: dev
+server:
+    port: 8080
